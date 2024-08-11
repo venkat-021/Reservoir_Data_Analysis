@@ -10,6 +10,7 @@ Our pilot project provides open access to near-real-time alerts of potential wat
 
 
 Ganges Basin
+
 •	Rihand reservoir
 
 Ganga Damodar Basin  
@@ -19,15 +20,19 @@ Ganga Damodar Basin
 •	Tenughat reservoir
 
 Mahanadi Basin
+
 •	Hirakud reservoir
 
 Kaveri Basin
+
 •	Mettu reservoir
 
 Godavari Basin
+
 •	Pench reservoir
 •	Sri ram Sagar  reservoir
 
 Narmada Basin
+
 •	Bhagirada  reservoir
 •	Indirasagar reservoir
