@@ -1,4 +1,4 @@
-# Reservoir_Data_Analysis
+# Reservoir_Data_Analysis_using_PowerBI
 One of the solutions for reducing the water scarcity in India
 
 India’s power sector is dominated by thermal power generation India’s current power mix and generation is largely comprised of thermal power—coal represents 50 percent of installed capacity. This makes it highly exposed to water risk as thermal power is dependent on the uninterrupted availability of freshwater for a range of operational needs. Disruptions in power supply due to droughts have compounding effects across a range of users from industry to agriculture to human health. In areas with high water stress, having access to timely information on water availability could help decision-makers avoid the risk of acute water-driven power outages and advocate for long-term, water-prudent policies and management. 
